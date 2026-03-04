@@ -1,2 +1,6 @@
-# Personal-Ludisavi-Manifest
-My own personal manifest for a few extra items I want Ludasavi to save.
+# My Personal Manifest for Random Backups
+
+##### 
+
+This is nothing more than a manifest I made myself to use ludisavi to backup other things for me. 
+

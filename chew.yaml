@@ -1,0 +1,7 @@
+Python:
+  files:
+    "<A:\\Python>":
+      tags:
+        - files
+      when:
+        - os: windows
